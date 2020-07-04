@@ -1,0 +1,2 @@
+# Computer-Vision
+ Computer Vision In this practical project will solve several computer vision problems using deep models. The goals of these projects are: • Develop proficiency in using Keras for training and testing neural nets (NNs). • Optimize the parameters and architectures of a dense feed-forward neural network (ffNN), and a convolutional neural net (CNN) for image classification. • Build a traffic sign detection algorithm.
